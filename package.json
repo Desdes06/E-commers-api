@@ -1,0 +1,28 @@
+{
+  "name": "e-commers-api",
+  "version": "1.0.0",
+  "description": "api for application clothes e-commers",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Desdes06/E-commers-api.git"
+  },
+  "keywords": [
+    "express",
+    "node",
+    "api",
+    "e-commers"
+  ],
+  "author": "Desvira r.s",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Desdes06/E-commers-api/issues"
+  },
+  "homepage": "https://github.com/Desdes06/E-commers-api#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
